@@ -1,4 +1,3 @@
-Set-Content -Path README.md -Encoding UTF8 -Value @"
 # AIFFEL_quest_rs
 
 AIFFEL 리서치 과정의 퀘스트와 피어 리뷰를 관리하는 레포지토리입니다.
