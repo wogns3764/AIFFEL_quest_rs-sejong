@@ -1,1 +1,75 @@
-# AIFFEL\_quest\_rsAIFFEL\_quest\_rs¦§¦¡¦¡ MainQuest¦¢   ¦§¦¡¦¡ Quest01¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Quest02¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Quest03¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Quest04¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦¦¦¡¦¡ Quest05¦¢       ¦§¦¡¦¡ .ipynb¦¢       ¦¦¦¡¦¡ README.md¦§¦¡¦¡ Exploration¦¢   ¦§¦¡¦¡ Ex01¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Ex02¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Ex03¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Ex04¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Ex05¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦§¦¡¦¡ Ex06¦¢   ¦¢   ¦§¦¡¦¡ .ipynb¦¢   ¦¢   ¦¦¦¡¦¡ README.md¦¢   ¦¦¦¡¦¡ Ex07¦¢       ¦§¦¡¦¡ .ipynb¦¢       ¦¦¦¡¦¡ README.md¦¦¦¡¦¡ GoingDeeper&nbsp;   ¦§¦¡¦¡ GD01&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦§¦¡¦¡ GD02&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦§¦¡¦¡ GD03&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦§¦¡¦¡ GD04&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦§¦¡¦¡ GD05&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦§¦¡¦¡ GD06&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦§¦¡¦¡ GD07&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦§¦¡¦¡ GD08&nbsp;   ¦¢   ¦§¦¡¦¡ .ipynb&nbsp;   ¦¢   ¦¦¦¡¦¡ README.md&nbsp;   ¦¦¦¡¦¡ GD09&nbsp;       ¦§¦¡¦¡ .ipynb&nbsp;       ¦¦¦¡¦¡ README.md
+Set-Content -Path README.md -Encoding UTF8 -Value @"
+# AIFFEL_quest_rs
+
+AIFFEL ë¦¬ì„œì¹˜ ê³¼ì •ì˜ í€˜ìŠ¤íŠ¸ì™€ í”¼ì–´ ë¦¬ë·°ë¥¼ ê´€ë¦¬í•˜ëŠ” ë ˆí¬ì§€í† ë¦¬ìž…ë‹ˆë‹¤.
+
+### ë ˆí¬ì§€í† ë¦¬ êµ¬ì¡°ë„
+
+```text
+AIFFEL_quest_rs
+â”œâ”€â”€ MainQuest
+â”‚   â”œâ”€â”€ Quest01
+â”‚   â”‚   â”œâ”€â”€ Quest01.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Quest02
+â”‚   â”‚   â”œâ”€â”€ Quest02.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Quest03
+â”‚   â”‚   â”œâ”€â”€ Quest03.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Quest04
+â”‚   â”‚   â”œâ”€â”€ Quest04.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â””â”€â”€ Quest05
+â”‚       â”œâ”€â”€ Quest05.ipynb
+â”‚       â””â”€â”€ README.md
+â”œâ”€â”€ Exploration
+â”‚   â”œâ”€â”€ Ex01
+â”‚   â”‚   â”œâ”€â”€ Ex01.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Ex02
+â”‚   â”‚   â”œâ”€â”€ Ex02.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Ex03
+â”‚   â”‚   â”œâ”€â”€ Ex03.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Ex04
+â”‚   â”‚   â”œâ”€â”€ Ex04.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Ex05
+â”‚   â”‚   â”œâ”€â”€ Ex05.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ Ex06
+â”‚   â”‚   â”œâ”€â”€ Ex06.ipynb
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â””â”€â”€ Ex07
+â”‚       â”œâ”€â”€ Ex07.ipynb
+â”‚       â””â”€â”€ README.md
+â””â”€â”€ GoingDeeper
+    â”œâ”€â”€ GD01
+    â”‚   â”œâ”€â”€ GD01.ipynb
+    â”‚   â””â”€â”€ README.md
+    â”œâ”€â”€ GD02
+    â”‚   â”œâ”€â”€ GD02.ipynb
+    â”‚   â””â”€â”€ README.md
+    â”œâ”€â”€ GD03
+    â”‚   â”œâ”€â”€ GD03.ipynb
+    â”‚   â””â”€â”€ README.md
+    â”œâ”€â”€ GD04
+    â”‚   â”œâ”€â”€ GD04.ipynb
+    â”‚   â””â”€â”€ README.md
+    â”œâ”€â”€ GD05
+    â”‚   â”œâ”€â”€ GD05.ipynb
+    â”‚   â””â”€â”€ README.md
+    â”œâ”€â”€ GD06
+    â”‚   â”œâ”€â”€ GD06.ipynb
+    â”‚   â””â”€â”€ README.md
+    â”œâ”€â”€ GD07
+    â”‚   â”œâ”€â”€ GD07.ipynb
+    â”‚   â””â”€â”€ README.md
+    â”œâ”€â”€ GD08
+    â”‚   â”œâ”€â”€ GD08.ipynb
+    â”‚   â””â”€â”€ README.md
+    â””â”€â”€ GD09
+        â”œâ”€â”€ GD09.ipynb
+        â””â”€â”€ README.md
